@@ -1,0 +1,22 @@
+button{
+    color: white;
+    background-color: cornflowerblue;
+    font-size: 16px;
+    padding: 15px 30px;
+    margin: 1px;
+    width: 150px;
+}
+
+.count{
+font-size: 200px;
+/* margin: 10px; */
+padding:  15px 30px;
+/* color: white; */
+/* background-color: red; */
+
+}
+.reset{
+    width: 300px;
+    margin: 1px;
+    background-color: red;
+}
